@@ -38,6 +38,8 @@ figcaption, caption
   color: $color-primario
 .lista-ul--color.color-secundario li > i:first-of-type  
   color: $color-secundario     
+.lista-ul--color.color-acento-botones li > i:first-of-type  
+  color: $color-acento-botones    
 .lista-ul--color.color-adicional-1 li > i:first-of-type  
   color: $color-adicional-1  
 .lista-ul--color.color-adicional-2 li > i:first-of-type  
@@ -94,3 +96,82 @@ figcaption, caption
   background-color: #FEF9EC
 .bg2
   background-color: #F5F9FC
+.bg3
+  background-color: #FAE9B4
+.bg4
+  background-color:  #D9E8F1
+.bgi-1
+  background-image: url('../assets/curso/temas/t2/bg.png')
+  background-size: cover
+  background-repeat: no-repeat
+.bgcolor-1
+  background: #F7DCA8
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover
+
+
+.w-80x
+  width: 80px
+.subt
+  position: relative
+  display: inline-flex
+  align-items: center
+  img
+    width: 50px
+    position: relative
+    z-index: 2
+  h3
+    padding: 5px 40px 5px 28px
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    inset: 0
+    left: 15px
+    height: 80%
+    top: 50%
+    transform: translateY(-50%)
+    background: #dbe6ef
+    clip-path: polygon(0 0, 100% 0, 95% 100%, 0% 100%)
+.subt2
+  position: relative
+  display: inline-flex
+  align-items: flex-end
+  img
+    width: 40px
+    position: relative
+    z-index: 2
+  h4 
+    padding: 5px 30px 5px 5px
+    position: relative
+  &::after
+    content: ''
+    position: absolute
+    left: 25px
+    bottom: 0
+    width: calc(100% - 25px)
+    height: 2px
+    background: #ECA726
+
+
+.slyder-f__btn i
+  color: $color-acento-botones
+.tabla1
+  thead
+    background-color: #5E430F
+    border-color: #5E430F !important
+    color: white    
+  tbody
+    tr:nth-child(even)
+      background-color: #F6F6F6
+    th 
+      font-weight: normal
+    tr td:first-child
+      font-weight: bold

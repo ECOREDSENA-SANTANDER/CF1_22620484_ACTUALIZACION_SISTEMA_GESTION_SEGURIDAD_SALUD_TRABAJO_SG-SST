@@ -107,7 +107,7 @@
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.2 Concepto, alcance y estructura del SG-SST
+      h2 1.2 Contexto organizacional, planificación y control
 
     .row.justify-content-center.mb-5
       .col-lg-5.d-none.d-lg-block(data-aos="fade-right")

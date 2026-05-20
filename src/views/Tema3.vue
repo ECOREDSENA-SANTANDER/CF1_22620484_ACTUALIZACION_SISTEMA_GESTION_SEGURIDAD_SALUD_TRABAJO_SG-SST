@@ -129,7 +129,7 @@
         .bg-white.tarjeta.p-4
           TarjetaAudio.color-acento-botones(
             texto="Condiciones de trabajo y condiciones de salud"
-            :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+            :audio="require('@/assets/componentes/audios/Podcast_CF1_22620484.mp3')"
             @audio-hover="mostrarIndicadorTarjetaAudio = false"
           )
             .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
@@ -174,15 +174,15 @@
             tbody
               tr
                 td Tasa de accidentalidad
-                td Número de accidentes.
-                td Evalúa la seguridad.
+                td Número de accidentes
+                td Evalúa la seguridad
               tr
                 td Ausentismo
-                td Días no laborados.
-                td Mide impacto en la salud.
+                td Días no laborados
+                td Mide impacto en la salud
               tr
                 td Incidentes reportados
-                td Eventos sin lesión.
+                td Eventos sin lesión
                 td Prevención.
             
 
@@ -204,7 +204,6 @@
     
     .row.justify-content-center.mb-4
       .col-lg-8(data-aos="fade-right")
-        p Las condiciones de trabajo corresponden a los factores presentes en el entorno laboral que pueden afectar al trabajador, mientras que las condiciones de salud están relacionadas con el estado físico y mental del personal. 
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-primario")
           .row(titulo="Elementos de la autoevaluación")
             .col-12

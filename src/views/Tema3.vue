@@ -183,7 +183,7 @@
               tr
                 td Incidentes reportados
                 td Eventos sin lesión
-                td Prevención.
+                td Prevención
             
 
     Separador

@@ -121,7 +121,7 @@
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/3.png', alt='')
 
-    p.mb-4 Para complementar toda esta información se invita al aprendiz a visitar el siguiente pódcast que será de gran utilidad: 
+    p.mb-4 Para complementar toda esta información, se invita al aprendiz a visitar el siguiente podcast, que será de gran utilidad: 
 
     .bg-color-primario(data-aos="fade-down")
       img(src='@/assets/curso/temas/t3/podcast.png', alt='')

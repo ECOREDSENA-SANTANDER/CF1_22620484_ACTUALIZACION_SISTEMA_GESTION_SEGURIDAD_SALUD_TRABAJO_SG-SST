@@ -3,7 +3,7 @@ export default {
     Name:
       'Gestión integral del Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST) en Colombia',
     Description:
-      'Este componente formativo está orientado al desarrollo de competencias para implementar, gestionar y mejorar el Sistema de Gestión de Seguridad y Salud en el Trabajo. Aborda fundamentos del sistema, marco normativo vigente, identificación de peligros, evaluación de riesgos, seguimiento y medición, y mejora continua. Fortalece la aplicación de instrumentos técnicos, el cumplimiento de requisitos legales y la elaboración de informes que promuevan entornos laborales seguros y saludables.',
+      'El Componente formativo Gestión del SG-SST en Colombia, orientado al desarrollo de competencias para implementar, gestionar y mejorar el Sistema de Gestión de Seguridad y Salud en el Trabajo. Aborda fundamentos del sistema, marco normativo vigente, identificación de peligros, evaluación de riesgos, seguimiento y medición y mejora continua. Fortalece la aplicación de instrumentos técnicos, el cumplimiento de requisitos legales y la elaboración de informes que promuevan entornos laborales seguros y saludables. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -241,53 +241,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Bedoya Marrugo, E. A., Balarezo Rodríguez, K., & Mora Arquez, G. (2023). Seguridad y salud en el trabajo: Un enfoque interdisciplinar (HSEQ). Tecnológico Comfenalco.',
-      link: '',
+        'Ministerio del Trabajo de Colombia. (2015). Decreto 1072 de 2015: Decreto Único Reglamentario del Sector Trabajo.  ',
     },
     {
       referencia:
-        'Congreso de Colombia. (2012). Ley 1562 de 2012 por la cual se modifica el Sistema de Riesgos Laborales. Diario Oficial.',
-      link: '',
+        'Congreso de Colombia. (2012). Ley 1562 de 2012, por la cual se modifica el Sistema de Riesgos Laborales. Diario Oficial. ',
     },
     {
       referencia:
-        'Comunidad Andina. (2004). Instrumento andino de seguridad y salud en el trabajo (Decisión 584).',
-      link: '',
+        'Ministerio del Trabajo de Colombia. (2019). Resolución 0312 de 2019: Estándares mínimos del SG-SST.  ',
     },
     {
       referencia:
-        'Correa Chaparro, C. G. (2022). Sistema integrado de gestión en seguridad y salud en el trabajo. ECOE Ediciones.',
-      link: '',
+        'Organización Internacional del Trabajo. (2022). Seguridad y salud en el trabajo: Principios y buenas prácticas. OIT.  ',
     },
     {
       referencia:
-        'Ministerio del Trabajo. (2025). Circular 0047 de 2025 por la cual se imparten lineamientos en materia de seguridad y salud en el trabajo.',
-      link: '',
+        'Comunidad Andina. (2004). Instrumento andino de seguridad y salud en el trabajo (Decisión 584).  ',
     },
     {
       referencia:
-        'Ministerio del Trabajo de Colombia. (2015). Decreto 1072 de 2015: Decreto Único Reglamentario del Sector Trabajo.',
-      link: '',
-    },
-    {
-      referencia:
-        'Ministerio del Trabajo de Colombia. (2019). Resolución 0312 de 2019: Estándares mínimos del SG-SST.',
-      link: '',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo. (2022). Seguridad y salud en el trabajo: principios y buenas prácticas. OIT.',
-      link: '',
-    },
-    {
-      referencia:
-        'Servicio Nacional de Aprendizaje (SENA). (2025). Sistema de gestión de seguridad y salud en el trabajo en Colombia: contenido del curso. Material de formación interna.',
-      link: '',
-    },
-    {
-      referencia:
-        'Vera Méndez, D. M., Laguado Ramírez, R. I., & Flórez Serrano, E. G. (2021). Relationship of the PDCA cycle in occupational health and safety management. International Journal of Engineering Research & Technology, 14(8), 1-8.',
-      link: '',
+        'Institución educativa o plataforma de formación. (2025). Sistema de gestión de seguridad y salud en el trabajo en Colombia: Contenido del curso. Material de formación interna. ',
     },
   ],
   creditos: [

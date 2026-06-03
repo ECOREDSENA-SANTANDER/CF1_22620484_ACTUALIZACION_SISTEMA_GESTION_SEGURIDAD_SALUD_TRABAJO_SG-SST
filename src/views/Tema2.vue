@@ -37,29 +37,29 @@
               th Aplicación
           tbody
             tr
-              td Decreto 1072 de 2015
-              td Decreto Único Reglamentario del Sector Trabajo.
-              td Establece la estructura, lineamientos y obligatoriedad del SG-SST en las organizaciones.
+              td Decreto 1072 de 2015 
+              td Decreto Único Reglamentario del Sector Trabajo. 
+              td Establece la estructura, lineamientos y obligatoriedad del SG-SST en las organizaciones. 
             tr
-              td Ley 1562 de 2012
-              td Modifica el Sistema General de Riesgos Laborales.
-              td Fortalece la prevención de riesgos y amplía la cobertura del sistema.
+              td Ley 1562 de 2012 
+              td Modifica el Sistema General de Riesgos Laborales. 
+              td Fortalece la prevención de riesgos y amplía la cobertura del sistema. 
             tr
-              td Resolución 0312 de 2019
-              td Establece los estándares mínimos del SG-SST.
-              td Define los requisitos según el tipo de empresa y nivel de riesgo.
+              td Resolución 0312 de 2019 
+              td Establece los estándares mínimos del SG-SST. 
+              td Define los requisitos según el tipo de empresa y nivel de riesgo. 
             tr
-              td Resolución 2404 de 2019
-              td Lineamientos para la gestión del riesgo psicosocial.
-              td Regula la evaluación e intervención de factores psicosociales.
+              td Resolución 2764 de 2022 
+              td Riesgo psicosocial. 
+              td Regula y adopta los instrumentos para la evaluación e intervención de los factores de riesgo psicosocial en Colombia. 
             tr
-              td Resolución 1401 de 2007
-              td Reglamenta la investigación de incidentes y accidentes de trabajo.
-              td Define procedimientos para investigar incidentes y accidentes laborales.
+              td Resolución 1401 de 2007 
+              td Reglamenta la investigación de incidentes y accidentes de trabajo. 
+              td Define procedimientos para investigar incidentes y accidentes laborales. 
             tr
-              td Circular 0047 de 2025
-              td Emitida por el Ministerio del Trabajo para la actualización de la capacitación en SG-SST.
-              td Establece la formación obligatoria y actualización periódica para responsables del sistema.
+              td Circular 0047 de 2025 
+              td Emitida por el Ministerio del Trabajo para la actualización de la capacitación en SG-SST. 
+              td Establece la formación obligatoria y actualización periódica para responsables del sistema.  
     
     p.mb-5 Los lineamientos de la Comunidad Andina en seguridad y salud en el trabajo buscan orientar a los países miembros en la implementación de políticas y acciones que garanticen la protección de los trabajadores. Estos lineamientos permiten establecer criterios comunes, fortalecer la prevención de riesgos laborales y promover condiciones de trabajo seguras y saludables en la región, facilitando la articulación entre normativas nacionales y el mejoramiento continuo de los sistemas de gestión. 
 

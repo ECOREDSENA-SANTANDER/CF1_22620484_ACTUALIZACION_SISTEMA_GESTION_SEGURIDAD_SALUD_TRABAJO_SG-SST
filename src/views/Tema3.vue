@@ -141,49 +141,84 @@
 
     p.mb-5 Los instrumentos de seguimiento permiten evaluar el cumplimiento y la eficacia del SG-SST, facilitando la toma de decisiones basadas en datos. 
 
-    .row.justify-content-center
-      .col-lg-5(data-aos='fade-right')
-        .subt2.mb-4
-          img(src='@/assets/curso/temas/t1/subt2.svg', alt='')
-          h4.mb-0 Principales herramientas
-        .bg1.p-4.mb-4.mb-lg-0
-          ul.lista-ul--color.color-acento-botones.fa-lista.mb-0
-            li.mb-2
-              i.fas.fa-shield-alt
-              span.mb-0 Indicadores de gestión (accidentalidad, frecuencia, severidad).
-            li.mb-2
-              i.fas.fa-shield-alt
-              span.mb-0 Listas de chequeo. 
-            li.mb-2
-              i.fas.fa-shield-alt
-              span.mb-0 Auditorías internas. 
-            li.mb-0
-              i.fas.fa-shield-alt
-              span.mb-0 Informes de seguimiento.
-      .col-lg-7(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 6.
-          span Ejemplo de indicadores del SG-SST
-        .tabla-a.tabla2.color-primario
-          table
-            thead
-              tr
-                th Indicador
-                th Qué mide
-                th Importancia
-            tbody
-              tr
-                td Tasa de accidentalidad
-                td Número de accidentes
-                td Evalúa la seguridad
-              tr
-                td Ausentismo
-                td Días no laborados
-                td Mide impacto en la salud
-              tr
-                td Incidentes reportados
-                td Eventos sin lesión
-                td Prevención
+    .subt2.mb-4(data-aos='fade-right')
+      img(src='@/assets/curso/temas/t1/subt2.svg', alt='')
+      h4.mb-0 Principales herramientas
+
+    .row.justify-content-center.mb-4(data-aos="fade")
+      .col-lg-3.col-md-6.mb-3
+        .tarjeta--boton.color-acento-contenido.bg5.h-100.p-4
+          .row.justify-content-center.mb-3.mb-lg-4
+            .col-5.col-md-6.col-lg-6
+              img(src='@/assets//curso/temas/t3/tarj2-1.svg', alt='')
+          p.text-center.mb-0 Indicadores de gestión (accidentalidad, frecuencia, severidad).  
+      .col-lg-3.col-md-6.mb-3
+        .tarjeta--boton.color-acento-contenido.bg5.h-100.p-4
+          .row.justify-content-center.mb-3.mb-lg-4
+            .col-5.col-md-6.col-lg-6
+              img(src='@/assets//curso/temas/t3/tarj2-2.svg', alt='')
+          p.text-center.mb-0 Listas de chequeo. 
+      .col-lg-3.col-md-6.mb-3
+        .tarjeta--boton.color-acento-contenido.bg5.h-100.p-4
+          .row.justify-content-center.mb-3.mb-lg-4
+            .col-5.col-md-6.col-lg-6
+              img(src='@/assets//curso/temas/t3/tarj2-3.svg', alt='')
+          p.text-center.mb-0 Auditorías internas. 
+      .col-lg-3.col-md-6.mb-3
+        .tarjeta--boton.color-acento-contenido.bg5.h-100.p-4
+          .row.justify-content-center.mb-3.mb-lg-4
+            .col-5.col-md-6.col-lg-6
+              img(src='@/assets//curso/temas/t3/tarj2-4.svg', alt='')
+          p.text-center.mb-0 Informes de seguimiento. 
+
+
+    .titulo-sexto.color-acento-contenido.mb-3
+      h5 Tabla 6.
+      span Ejemplo de indicadores del SG-SST
+    .tabla-a.tabla3.color-primario
+      table
+        thead
+          tr
+            th Indicador
+            th Descripción 
+            th Finalidad
+        tbody
+          tr
+            td Tasa de accidentalidad 
+            td Número de accidentes de trabajo ocurridos en un periodo determinado en relación con la población trabajadora. 
+            td Evalúa las condiciones de seguridad y el comportamiento de la accidentalidad en la organización. 
+          tr
+            td Frecuencia de accidentalidad 
+            td Relación entre el número de accidentes de trabajo y las horas hombre trabajadas. 
+            td Permite medir la ocurrencia de accidentes y comparar resultados entre periodos. 
+          tr
+            td Severidad de accidentalidad 
+            td Número de días perdidos o cargados por accidentes de trabajo en relación con las horas trabajadas. 
+            td Determina la gravedad de los accidentes y su impacto sobre la productividad. 
+          tr
+            td Proporción de accidentes de trabajo mortales 
+            td Relación entre los accidentes mortales y el total de accidentes de trabajo registrados. 
+            td Evalúa el nivel de riesgo crítico presente en la organización. 
+          tr
+            td Ausentismo 
+            td Días no laborados por causas relacionadas con la salud. 
+            td Mide el impacto de las condiciones de salud en la asistencia laboral. 
+          tr
+            td Ausentismo por causa médica 
+            td Días de ausencia laboral ocasionados por enfermedad común, enfermedad laboral o accidente de trabajo. 
+            td Permite analizar el impacto de las condiciones de salud sobre la productividad y el bienestar de los trabajadores. 
+          tr
+            td Incidentes reportados 
+            td Eventos relacionados con el trabajo que no generaron lesión ni daño, pero que pudieron ocasionarlos. 
+            td Fortalece la prevención y el control de riesgos. 
+          tr
+            td Prevalencia de la enfermedad laboral 
+            td Número total de casos existentes de enfermedad laboral en una población durante un periodo determinado. 
+            td Permite identificar la magnitud de las enfermedades laborales presentes en la organización. 
+          tr
+            td Incidencia de la enfermedad laboral 
+            td Número de casos nuevos de enfermedad laboral identificados durante un periodo específico. 
+            td Evalúa la aparición de nuevas enfermedades laborales y la efectividad de las medidas preventivas. 
             
 
     Separador

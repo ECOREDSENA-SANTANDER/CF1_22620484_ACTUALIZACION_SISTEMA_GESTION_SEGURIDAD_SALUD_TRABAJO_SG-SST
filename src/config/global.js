@@ -241,7 +241,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio del Trabajo de Colombia. (2015). Decreto 1072 de 2015: Decreto Único Reglamentario del Sector Trabajo.  ',
+        'Bedoya Marrugo, E. A., Balarezo Rodríguez, K., & Mora Arquez, G. (2023). Seguridad y salud en el trabajo: Un enfoque interdisciplinar (HSEQ). Tecnológico Comfenalco. ',
     },
     {
       referencia:
@@ -249,19 +249,35 @@ export default {
     },
     {
       referencia:
-        'Ministerio del Trabajo de Colombia. (2019). Resolución 0312 de 2019: Estándares mínimos del SG-SST.  ',
-    },
-    {
-      referencia:
-        'Organización Internacional del Trabajo. (2022). Seguridad y salud en el trabajo: Principios y buenas prácticas. OIT.  ',
-    },
-    {
-      referencia:
         'Comunidad Andina. (2004). Instrumento andino de seguridad y salud en el trabajo (Decisión 584).  ',
     },
     {
       referencia:
-        'Institución educativa o plataforma de formación. (2025). Sistema de gestión de seguridad y salud en el trabajo en Colombia: Contenido del curso. Material de formación interna. ',
+        'Correa Chaparro, C. G. (2022). Sistema integrado de gestión en seguridad y salud en el trabajo. ECOE Ediciones. ',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2025). Circular 0047 de 2025, por la cual se imparten lineamientos en materia de seguridad y salud en el trabajo. ',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo de Colombia. (2015). Decreto 1072 de 2015: Decreto Único Reglamentario del Sector Trabajo.  ',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo de Colombia. (2019). Resolución 0312 de 2019: Estándares mínimos del SG-SST.  ',
+    },
+    {
+      referencia:
+        'Organización Internacional del Trabajo. (2022). Seguridad y salud en el trabajo: principios y buenas prácticas. OIT.  ',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2025). Sistema de gestión de seguridad y salud en el trabajo en Colombia: contenido del curso. Material de formación interna. ',
+    },
+    {
+      referencia:
+        'Vera Méndez, D. M., Laguado Ramírez, R. I., & Flórez Serrano, E. G. (2021). Relationship of the PDCA cycle in occupational health and safety management. International Journal of Engineering Research & Technology, 14(8), 1-8. ',
     },
   ],
   creditos: [
